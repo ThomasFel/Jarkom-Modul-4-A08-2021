@@ -336,6 +336,11 @@ Anggota:
      - Tambahkan *static routing* yang menuju jaringan **A1** *router* **WATER7** pada **FOOSHA**.
 
        <img src="https://user-images.githubusercontent.com/37539546/143680169-7f076a2c-7675-48d0-8e82-6cb776947402.JPG" width="600">
+       
+     ## Hasil
+
+     <img src="https://user-images.githubusercontent.com/37539546/143685713-49463581-e81c-475f-8f7b-19a229a99fba.JPG" width="600">
 
 ## Kendala
-CPT agak kurang responsif/konsisten sehingga butuh beberapa kali pengiriman untuk mendapatkan pesan success
+- CPT agak kurang responsif/konsisten sehingga butuh beberapa kali pengiriman untuk mendapatkan pesan *success*.
+- Beberapa *node* pada GNS3 masih belum bisa melakukan *ping* sehingga pengerjaan GNS3 untuk CIDR tidak selesai.
