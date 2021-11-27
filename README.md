@@ -65,7 +65,7 @@ Anggota:
      
    - Pembuatan ***tree subnet*** untuk nantinya membagi IP berdasarkan **NID** dan ***netmask***-nya.
 
-     <img src="https://user-images.githubusercontent.com/37539546/143674982-a00981c2-938e-4d03-85ed-2b15fbe09d14.jpg" width=600>
+     <img src="https://user-images.githubusercontent.com/37539546/143685152-1c2369c4-1423-4e3e-b5eb-d2103fae9f2c.jpg" width=600>
 
    - Pembagian IP dan *netmask* dengan tabel berdasarkan ***tree subnet*** yang sudah dibuat.
 
