@@ -338,3 +338,4 @@ Anggota:
        <img src="https://user-images.githubusercontent.com/37539546/143680169-7f076a2c-7675-48d0-8e82-6cb776947402.JPG" width="600">
 
 ## Kendala
+CPT agak kurang responsif/konsisten sehingga butuh beberapa kali pengiriman untuk mendapatkan pesan success
