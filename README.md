@@ -39,7 +39,7 @@ Anggota:
      
    - Pembagian IP dan *netmask* dengan tabel berdasarkan ***tree subnet*** yang sudah dibuat.
 
-     <img src="https://user-images.githubusercontent.com/37539546/143675108-0302f015-fb50-4034-9625-eecda124599e.png" width=550>
+     <img src="https://user-images.githubusercontent.com/37539546/144907142-dd8fc70e-1893-4a90-b90b-f34f362b4750.png" width=550>
 
 ## CIDR (*Classless Inter Domain Routing*)
    - Pembagian *subnet* (*subnetting*) terhadap topologi
@@ -69,7 +69,7 @@ Anggota:
 
    - Pembagian IP dan *netmask* dengan tabel berdasarkan ***tree subnet*** yang sudah dibuat.
 
-     <img src="https://user-images.githubusercontent.com/37539546/143675114-055a2367-1895-4862-9d34-88bbeb95a3de.png" width=550>
+     <img src="https://user-images.githubusercontent.com/37539546/144907239-6908da63-c43f-4edf-9a81-d0667a757dfc.png" width=550>
 
 ## VLSM dengan CPT (Cisco Packet Tracer)
 
